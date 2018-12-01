@@ -1,0 +1,6 @@
+[package]
+authors = ["Fredrik Sommar <fsommar@kth.se>"]
+name = "adventofcode"
+version = "0.1.0"
+[dependencies]
+failure = "*"
