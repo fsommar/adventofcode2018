@@ -4,3 +4,4 @@ name = "adventofcode"
 version = "0.1.0"
 [dependencies]
 failure = "0.1.3"
+regex = "1.1.0"
